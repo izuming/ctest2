@@ -1,0 +1,16 @@
+machine:
+  timezone:
+    Japan/Tokyo
+
+checkout:
+
+dependencies:
+  override:
+    - gradle dependencies
+
+database:
+
+test:
+
+deployment:
+
